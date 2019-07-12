@@ -24,6 +24,7 @@ then add the generated dependency to your project pom.xml:
       <version>1.0.0</version>
     </dependency>
 </dependencies>
+```
 
 ## Usage
 
