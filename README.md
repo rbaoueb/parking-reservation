@@ -1,6 +1,7 @@
 # ParkReservation API
 
 [![codecov](https://codecov.io/gh/rbaoueb/parking-reservation/branch/master/graph/badge.svg)](https://codecov.io/gh/rbaoueb/parking-reservation)
+[![Build Status](https://travis-ci.com/rbaoueb/parking-reservation.svg?branch=master)](https://travis-ci.com/rbaoueb/parking-reservation)
 
 
 ParkReservation is a JAVA API which allows us check-in / check-out of Cars in a given Parking
