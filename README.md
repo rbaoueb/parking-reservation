@@ -15,6 +15,16 @@ cd parking-reservation
 mvn clean install
 ```
 
+then add the generated dependency to your project pom.xml:
+```xml
+<dependencies>
+    <dependency>
+      <groupId>com.mrbaoueb</groupId>
+	  <artifactId>parking-reservation</artifactId>
+      <version>1.0.0</version>
+    </dependency>
+</dependencies>
+
 ## Usage
 
 There is an example of API usage (creating new parking and check-in/check-out a car) : 
